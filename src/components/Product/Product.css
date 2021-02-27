@@ -12,7 +12,7 @@
     color: blue;
     font-weight: 400;
 }
-.product .product-info button{
+button.btn{
     width: 200px;
     height: 30px;
     background-color: goldenrod;
